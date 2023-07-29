@@ -21,8 +21,11 @@ Esta pagína fue creada con:
 
 Además se incluyen *Google Fonts*
 
-
+##
 **El texto de la página web está escrito en español, sin ambargo las clases delacionadas con Bootstrap se incluyen en Inglés.**
+##
+
+![WhatsApp Image 2023-07-28 at 9 27 03 PM](https://github.com/StephanyGJ14/Portafolio/assets/140433905/d541a260-a8f4-4310-aaab-1f9d37710dea)
 
 
 ## Contacto
