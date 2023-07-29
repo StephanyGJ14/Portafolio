@@ -27,4 +27,4 @@ Además se incluyen *Google Fonts*
 
 ## Contacto
  Desarrollado por: Stephany Juaréz en **Tecnolochicas Pro summer camp.**
- [Stephany Juárez] (linkedin.com/in/stephany-juárez-60844a285)
+ [Stephany Juárez](https://sensational-genie-82130d.netlify.app/)
