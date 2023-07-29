@@ -64,47 +64,21 @@
 }
 
 #proyecto-1 {
-    background-image:url(image/Primera-pag.jpeg);
+    background-image:url(imagenes/Primera-pag.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 #proyecto-2 {
-    background-image: url(image/clon-google.jpeg);
+    background-image: url(imagenes/clon-google.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     
 }
 
-#proyecto-3 {
-    background-image: url('');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
 
-#proyecto-4 {
-    background-image: url('');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-#proyecto-5 {
-    background-image: url();
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-#proyecto-6 {
-    background-image: url('');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
 
 .carousel-item {
     height: 400px;
